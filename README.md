@@ -1,0 +1,2 @@
+# PartialClass
+PartialClass
